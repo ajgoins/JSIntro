@@ -11,15 +11,19 @@
 		</title>
 	</head>
 	<body>
-    console.log("Ashley Goins");
-    console.log("35");
+   	 console.log("Ashley Goins");
+   	 console.log("35");
     
-    console.log(6 * 3);
-    console.log(6 / 3);
-		console.log(6 + 3);
-    console.log(6 - 3);
+   	 console.log(6 * 3);
+   	 console.log(6 / 3);
+	 console.log(6 + 3);
+   	 console.log(6 - 3);
     
-    <p> 9, 4+5, 4 5</p>
+   	 <p> 9, 4+5, 4 5</p>
+
+   	 const celsius = 32;
+	console.log(celsius * 9 / 5 + 32);
+
    </body>
 	
 </html>`
